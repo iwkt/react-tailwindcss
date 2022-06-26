@@ -1,3 +1,9 @@
+---
+noteId: "709e1100f4e811ecb2df4bf22cdc5683"
+tags: []
+
+---
+
 # TailCSS を利用してスタイルを当てる
 
 今勢いのあるという TailCSS を使って使用感を確認した。
