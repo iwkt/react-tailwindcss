@@ -89,8 +89,8 @@ module.exports = {
 
 # 使用方法
 
-##コマンドの実行
+##watch コマンドの実行
 
 ```
-npm run build
+npm run dev
 ```
