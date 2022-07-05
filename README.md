@@ -14,7 +14,7 @@ npm install -D tailwindcss postcss-cli autoprefixer
 これで、tailwind.config.js と postcss.config.js ファイルが作られる。
 
 ```
-npm tailwindcss init -p
+npx tailwindcss init -p
 
 ```
 
